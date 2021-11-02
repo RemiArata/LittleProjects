@@ -1,4 +1,4 @@
-# Uplight interview question
+# Who
 
 I chose to use Python with Flask because it was one of your popular stacks and I had never worked with Flask before, so it seemed like a fun way to learn a little bit of the tech stack and something new to me. It took me about 90 minutes to get a bare bone understanding of how flask worked and get the service running to a point that seemed to be correct to me. I chose to exclude unit tests because the prompt said to take between one and two hours to complete this and adding unit tests would have taken more time than was allotted. If given more time my approach would have been to build unit tests first and then implement the service to make it more verbose. 
 
